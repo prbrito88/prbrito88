@@ -1,4 +1,4 @@
-### Hi 👋, I'm <nome>
+### Hi 👋, I'm <Paulo Brito>
 
 
 😄 I'm Brazilian, living in Paraiba and I'm a Quality Assurance Engineer
@@ -8,3 +8,4 @@
 💬 Ask me about **<Software testing, requirements analysis>**
 
 📫 You can reach me by email at <email> or in my [LinkedIn profile](https://linkedin.com/in/paulo-brito-6b9b16173)
+
